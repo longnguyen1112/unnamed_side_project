@@ -9,6 +9,4 @@ class UserApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
-	//testing commit
 }
