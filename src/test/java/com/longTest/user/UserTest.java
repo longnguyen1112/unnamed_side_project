@@ -63,7 +63,6 @@ public class UserTest {
         ResponseEntity<User> responseEntity = userController.createUser(userToCreate);
 
         assert responseEntity.getStatusCode().equals(HttpStatus.CREATED);
-        //TODO
         //assert responseEntity.getBody().equals(savedUser);
     }
 
@@ -78,7 +77,6 @@ public class UserTest {
         ResponseEntity<User> responseEntity = userController.updateUser(1L, updatedUser);
 
         assert responseEntity.getStatusCode().equals(HttpStatus.OK);
-        //TODO
         //assert responseEntity.getBody().equals(updatedUser);
     }
 
