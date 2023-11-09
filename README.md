@@ -16,8 +16,6 @@ Introducing our side project, a dynamic web application that is still in the exp
 
 ## Services Offered
 
-**Assisting in Decision Making**:
-
 1. **Full Stack Development Training:** Comprehensive training on frontend (Angular) and backend (Java Spring) development, with a focus on building modern web applications.
 2. **Database Management:** Instruction on database modeling, indexing, optimization, and management, using PostgreSQL as the database system.
 3. **Agile Methodology:** An introduction to agile development practices and project management, emphasizing concepts like Scrum and Kanban.
