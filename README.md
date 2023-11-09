@@ -1,4 +1,4 @@
-# unnamed-side-project (Potentially ****AI-Powered Trading Assistance Web Application)****
+# unnamed-side-project
 
 ### **Description**:
 
