@@ -89,7 +89,7 @@ Introducing our side project, a dynamic web application that is still in the exp
 
 - **Programming Language**: Java for developing the backend server.
 - **Framework**: Spring Boot for building RESTful APIs and microservices.
-- **Database**: PostgreSQL or MySQL for storing historical and user data.
+- **Database**: PostgreSQL for storing historical and user data.
 - **AI and ML Integration**: Utilize Java libraries for integrating machine learning models.
 - **Data Processing**: Java libraries for data manipulation and analysis.
 - **Authentication**: Spring Security for secure user authentication.
