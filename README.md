@@ -131,3 +131,11 @@ Introducing our side project, a dynamic web application that is still in the exp
 - Ensure compliance with relevant financial regulations and data protection laws, especially for a trading-related application.
 
 This tech stack leverages the strengths of Angular for frontend development and Java Spring for backend development, providing a robust foundation for your web application. Adjust the specific technologies within the stack based on your team's expertise and project requirements.
+
+
+### Research and Progress (since there's no Agile tracker yet):
+
+**Long**:
+- implementing a few basic restful apis
+- configure database so everyone can download and access the same data
+- reading on how to set up spring application on EC2 AWS and Amazon RDS for postgresql
