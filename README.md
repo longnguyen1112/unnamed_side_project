@@ -3,35 +3,31 @@
 ### **Description**:
 
 Introducing our side project, a dynamic web application that is still in the exploratory phase. While we may not have a defined purpose just yet, it serves as an exciting platform for honing our development skills and experimenting with cutting-edge technologies. This project will be a playground for Angular, Java Spring, and PostgreSQL, offering a versatile environment for practicing and learning. We aim to leverage these powerful tools to craft an interactive and feature-rich web application. Stay tuned as we embark on this journey of discovery and innovation, where the possibilities are boundless, and every line of code brings us one step closer to defining our project's purpose.
-Potentially, our platform is a transformative tool for traders, whether they are beginners or seasoned professionals, offering data-driven insights, predictive analytics, and automation to optimize their trading decisions and outcomes.
 
 ## **Objectives:**
 
-- **Skill Enhancement**: Develop proficiency in Angular, Java Spring, and PostgreSQL by building and refining a full-stack web application.
-- **Exploration**: Investigate the capabilities and potential of these technologies, exploring various features and functionalities.
-- **Iterative Learning**: Embrace an iterative approach to software development, learning from both successes and challenges.
-- **Collaboration**: Foster collaboration within our team, promoting knowledge sharing and problem-solving.
-- **Potential Purpose**: Ultimately, discover a practical use or purpose for the application that aligns with our interests and goals.
-- **Empower Traders**: Provide traders with accessible AI and machine learning capabilities to enhance their trading strategies.
-- **Data-Driven Trading**: Enable data-driven decision-making by harnessing the power of predictive analytics.
-- **Risk Mitigation**: Help traders make more informed decisions, reduce risks, and enhance the overall trading experience.
-- **Community Building**: Foster a community of traders and data enthusiasts for knowledge sharing and collaboration.
+**Comprehensive Skill Development**: Offer a holistic training program covering frontend and backend development, database management, version control, agile methodologies, API integration, and more.
 
-## Services Offered**:**
+**Real-World Readiness**: Prepare participants for the challenges of real-world projects by providing hands-on experience and knowledge across various domains, from traditional web applications to cutting-edge microservices.
+
+**Collaborative Learning**: Foster collaboration and teamwork by incorporating tools and practices used by industry professionals to coordinate development efforts.
+
+**Self-Paced Learning**: Provide a structured curriculum with self-paced modules, tutorials, and exercises to cater to learners of various levels and abilities.
+
+## Services Offered
 
 **Assisting in Decision Making**:
 
-- In this scenario, the web application provides users with AI and machine learning models that offer insights, predictions, and recommendations based on historical and real-time data.
-- Users can analyze these insights to make informed trading decisions manually.
-- The application may assist with tasks such as price prediction, sentiment analysis, risk assessment, and market trend analysis.
-- Users are responsible for executing trades through their chosen trading platforms or brokers.
-
-**Live Trading Integration**:
-
-- To support live trading, the web application would need to integrate with trading APIs or platforms, enabling automated order execution based on AI and machine learning model signals.
-- Implementing live trading introduces substantial responsibilities, including risk management, trade execution, monitoring, and ensuring compliance with financial regulations.
-- Security measures become even more critical to protect users' trading accounts and financial assets.
-- Users may need to link their trading accounts or APIs to the application for seamless execution.
+1. **Full Stack Development Training:** Comprehensive training on frontend (Angular) and backend (Java Spring) development, with a focus on building modern web applications.
+2. **Database Management:** Instruction on database modeling, indexing, optimization, and management, using PostgreSQL as the database system.
+3. **Agile Methodology:** An introduction to agile development practices and project management, emphasizing concepts like Scrum and Kanban.
+4. **Version Control:** Proficiency with Git, including branching and merging strategies for collaborative development.
+5. **API Development and Integration:** Practical experience in building and integrating APIs, a fundamental skill for web application development.
+6. **User Experience (UX) Design:** Basic principles of UX design to enhance application usability and user satisfaction.
+7. **Collaboration Tools:** Familiarization with project management and collaboration tools like Jira, Trello, and others.
+8. **Cloud Services:** Understanding cloud platforms like AWS, Azure, and Google Cloud for hosting and scaling web applications.
+9. **Mobile Development:** Introduction to mobile application development for web and mobile compatibility.
+10. **Microservices and Containers:** An advanced topic covering microservices architecture and containerization using Docker and Kubernetes.
 
 ## **Project Plan**
 
@@ -60,48 +56,23 @@ Potentially, our platform is a transformative tool for traders, whether they are
 - Identify and resolve performance bottlenecks and bugs.
 - Optimize code and database queries for efficiency.
 
-## Big Phase 2: Integrate Decision Making Assistance Functionality
+### **Phase 5: Cloud Server Setup (4 weeks)**
 
-### **Phase 5: Data Acquisition and Preparation (4-6 weeks)**
+- Configure cloud servers on AWS, Azure, or Google Cloud to host the platform.
+- Set up load balancing, auto-scaling, and security measures.
 
-- Identify and gather data sources, including historical price data, news sentiment, and other relevant information.
-- Clean, preprocess, and store the data for model training and analysis.
-- Begin exploring data analysis and model development possibilities.
+### **Phase 6: Deployment and Testing (8 weeks)**
 
-### **Phase 6: AI Model Development (8-10 weeks)**
-
-- Develop machine learning and AI models for trading strategies (e.g., price prediction, sentiment analysis, risk assessment, etc.).
-- Train and validate the models, ensuring robustness and reliability.
-
-### **Phase 7: User-Friendly Interface (4-6 weeks)**
-
-- Design an intuitive and user-friendly web interface for traders.
-- Implement the frontend components, emphasizing user experience.
-- Fine-tune the interface based on user feedback.
-
-### **Phase 8: Model Integration and Automation (4-6 weeks)**
-
-- Integrate AI models into the web application for real-time trading decision support.
-- Implement automation features, such as trade execution and portfolio management.
-
-### **Phase 9: Testing and Optimization (4 weeks)**
-
-- Conduct rigorous testing, validate model accuracy, and optimize performance.
-- Address issues and refine the application's performance based on user feedback.
-
-## Big Phase 3: Integrate Live Trading Functionality
-
-### **Phase 10: Live Trading Integration (8-10 weeks)**
-
-- Develop live trading capabilities, including order execution and portfolio management.
-- Integrate with trading APIs and platforms to enable real-time trading based on AI model signals.
-
-### **Phase 11: Community Building and Knowledge Sharing (6 weeks)**
+- Deploy the platform to the cloud environment, ensuring high availability and scalability.
+- Set up domain names and SSL certificates for secure access.
+- Integrate monitoring tools (Prometheus, Grafana), security practices (OWASP), and testing frameworks (Jest, Mocha) into the platform.
+- Conduct thorough testing to identify and rectify any issues.
+### **Phase 7: Community Building and Knowledge Sharing (6 weeks)**
 
 - Promote the platform to traders, encourage user participation, and facilitate knowledge sharing.
 - Gather feedback and insights from the user community to guide further improvements.
 
-### **Phase 12: Documentation and Future Expansion (2 weeks)**
+### **Phase 8: Documentation and Future Expansion (2 weeks)**
 
 - Document the project's technical details and usage guidelines for traders.
 - Plan for future expansions, additional features, and sustainability.
@@ -124,13 +95,6 @@ Potentially, our platform is a transformative tool for traders, whether they are
 - **AI and ML Integration**: Utilize Java libraries for integrating machine learning models.
 - **Data Processing**: Java libraries for data manipulation and analysis.
 - **Authentication**: Spring Security for secure user authentication.
-
-**Machine Learning and AI**:
-
-- **Machine Learning**: Utilize Java-based libraries for traditional machine learning algorithms.
-- **Deep Learning**: Integrate Java with deep learning frameworks such as Deeplearning4j.
-- **Sentiment Analysis**: Implement Java-based NLP libraries for sentiment analysis.
-- **Prediction Models**: Develop AI and ML models for price prediction, risk assessment, and sentiment analysis.
 
 **Cloud Services**:
 
@@ -168,4 +132,4 @@ Potentially, our platform is a transformative tool for traders, whether they are
 
 - Ensure compliance with relevant financial regulations and data protection laws, especially for a trading-related application.
 
-This tech stack leverages the strengths of Angular for frontend development and Java Spring for backend development, providing a robust foundation for your AI-powered trading assistance web application. Adjust the specific technologies within the stack based on your team's expertise and project requirements.
+This tech stack leverages the strengths of Angular for frontend development and Java Spring for backend development, providing a robust foundation for your web application. Adjust the specific technologies within the stack based on your team's expertise and project requirements.
