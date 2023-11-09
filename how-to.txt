@@ -1,0 +1,4 @@
+How to? //will be edited
+
+
+//This file will provide you the instructions on how to initially install all required software for the project
